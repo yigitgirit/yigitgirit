@@ -14,7 +14,7 @@ I'm a software engineer who weighs the unchosen alternatives against the paths I
 * **Languages:** Java, TypeScript, JavaScript, SQL, HTML/CSS
 * **Backend:** Spring Boot, Spring Security, JPA/Hibernate, PostgreSQL, RESTful APIs
 * **Frontend:** React, Next.js, TanStack Start, Tailwind CSS
-* **Architecture & Tools:** Docker, Git, Maven, MVC Pattern, Feature-based Modules
+* **Architecture & Tools:** Docker, Git, Maven, Bruno
 
 #### Connect With Me
 
